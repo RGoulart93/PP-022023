@@ -48,7 +48,7 @@ Futuramente
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Descrever aqui o que foi entregue na sprint
+>Formalização do grupo, criação da empresa, definição de missão, definir objetivo do produto, definir negócio e nicho da atuação da empresa, definir o escopo do projeto, definir objetivo do projeto, definir cronograma e responsáveis e levantar as necessidades do cliente.
 >Colocar o vídeo da apresentação
 
 <p align="center">
@@ -56,7 +56,7 @@ Futuramente
 </p>
 
 ## Sprint 2
->Descrever aqui o que foi entregue na sprint
+>Descrever aqui o que foi entregue na sprint / definir visão, atualização dos objetivos do produto, desenvolvimento da analise SWOT, definição das estrátegias, 
 >Colocar o vídeo da apresentação
 
 <p align="center">
